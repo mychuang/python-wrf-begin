@@ -6,4 +6,8 @@
 
 - [Installation](Python-WRF/Installation.md)
 
-- Basic Usage
+- numpy & xarray
+
+- read wrfout
+
+
